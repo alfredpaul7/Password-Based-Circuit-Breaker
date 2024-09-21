@@ -61,8 +61,6 @@ This repository contains the code and documentation for a **Password-Based Circu
 - **Microcontroller**: Processes the password and controls the relay.
 - **Relay**: Switches the output device ON or OFF.
 
-![Circuit Diagram](path-to-diagram.png)
+![Project photo](https://photos.app.goo.gl/CFK34ArqxaqiUwXK7)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
